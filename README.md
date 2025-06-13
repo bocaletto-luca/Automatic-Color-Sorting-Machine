@@ -1,4 +1,5 @@
 # Automated Color Sorting Machine
+#### Author: Bocaletto Luca
 
 **Files**  
 - `README.md`  
